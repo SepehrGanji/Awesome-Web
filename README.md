@@ -3,7 +3,7 @@
 ## How to run the project?
 
 You have to install node and npm first.
-Then, clone the project, change shell directory to the root folder and install packages:
+Then, clone the project, change shell directory to the root folder and install required packages:
 
 ```
 npm ci
